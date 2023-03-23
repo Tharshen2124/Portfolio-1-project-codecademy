@@ -38,3 +38,4 @@ let sentenceFix2 = sentenceFix1.replace(/,/g, ' ');
 
 console.log(sentenceFix2);
 
+console.log("hello");
